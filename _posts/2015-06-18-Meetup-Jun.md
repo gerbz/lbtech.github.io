@@ -10,6 +10,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) gr
 ### TALKS THIS MONTH
 - James Polanco - React, WHY I MOVED TO REACT
 - Chris Charlton - GITflow, I THINK YOU'RE DOING IT WRONG
+- Greg Gerber - Zapier, AUTOMATE EVERYTHING
 
 RSVP:  [j.mp/WAPRO-1506-rsvp](http://j.mp/WAPRO-1506-rsvp)
 
@@ -67,6 +68,8 @@ A pragmatic talk on GIT.  #workflow.  #secretsauce.
 > <img src="/images/people/charlton_avatar.png" alt="headshot" class="headshot">  
 > Published Tech Author. Programming Community Astronaut. I built http://SpaceX.com . Talents: #TechR&D #Gaming #Code #Events #Writing  
 
-
+> ### Greg Gerber [@gerbz](https://twitter.com/gerbz)
+> <img src="/images/people/gerbz.png" alt="headshot" class="headshot">  
+> Solopreneur operating on the fringe
 
 ### SPONSORS
